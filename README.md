@@ -69,13 +69,11 @@ Ready to work with us? Reach out through our contact form, or connect with us vi
 
 ## Getting Started
 
-To get started locally:
+To view the website or get a local copy up and running, follow these steps:
 
-1. **Clone the repository**:  
+1. **Visit the live site**:  
+   [https://designingbite.vercel.app/](https://designingbite.vercel.app/)
+
+2. **Clone the repository**:  
    ```bash
    git clone https://github.com/your-username/graphic-design-website.git
-
-
-2. **Live the repository**:  
-   ```bash
-https://designingbite.vercel.app/
